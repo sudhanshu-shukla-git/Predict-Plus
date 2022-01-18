@@ -1,80 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T10:03:59.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ADwfJlgv445tY8WeOjdP" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T10:16:30.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rcsB7Tmm10HzApygri_y" version="16.2.7" type="github">
   <diagram id="yNg8fXrAm-MrCsedrM9f" name="Page-1">
     <mxGraphModel dx="938" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q22CciQoSYREGAeda4IG-5" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;" parent="1" edge="1" source="sYvRmeqlsZWl2c47sikl-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="249.5" as="sourcePoint" />
-            <mxPoint x="400" y="249.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q22CciQoSYREGAeda4IG-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smartphone-signal-5g-trading/64/Smartphone_Trading-128.png;imageBackground=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="90" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q22CciQoSYREGAeda4IG-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
-          <mxGeometry x="200" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q22CciQoSYREGAeda4IG-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smartphone-signal-5g-trading/64/Smartphone_Trading-128.png;imageBackground=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="90" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="410" y="220" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smartphone-signal-5g-trading/64/Smartphone_Trading-128.png" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-3" value="Similar Users" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="240" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-4" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="sYvRmeqlsZWl2c47sikl-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="249.5" as="sourcePoint" />
-            <mxPoint x="400" y="249.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="210" as="sourcePoint" />
-            <mxPoint x="270" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="210" as="sourcePoint" />
-            <mxPoint x="380" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sYvRmeqlsZWl2c47sikl-10" value="Mutual Funds bought by both the users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="50" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-11" value="User A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="sYvRmeqlsZWl2c47sikl-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="180" width="270" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-12" value="User B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="sYvRmeqlsZWl2c47sikl-12">
+        <mxCell id="q22CciQoSYREGAeda4IG-5" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;" parent="sYvRmeqlsZWl2c47sikl-20" edge="1" source="sYvRmeqlsZWl2c47sikl-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="360" as="sourcePoint" />
-            <mxPoint x="430" y="310" as="targetPoint" />
+            <mxPoint x="70" y="89.5" as="sourcePoint" />
+            <mxPoint x="200" y="89.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="q22CciQoSYREGAeda4IG-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="sYvRmeqlsZWl2c47sikl-20" vertex="1">
+          <mxGeometry y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="sYvRmeqlsZWl2c47sikl-20">
+          <mxGeometry x="210" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smartphone-signal-5g-trading/64/Smartphone_Trading-128.png" vertex="1" parent="sYvRmeqlsZWl2c47sikl-20">
+          <mxGeometry x="110" y="180" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-3" value="Similar Users" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sYvRmeqlsZWl2c47sikl-20">
+          <mxGeometry x="90" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-4" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;" edge="1" parent="sYvRmeqlsZWl2c47sikl-20" target="sYvRmeqlsZWl2c47sikl-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="280" as="sourcePoint" />
-            <mxPoint x="450" y="230" as="targetPoint" />
+            <mxPoint x="70" y="89.5" as="sourcePoint" />
+            <mxPoint x="200" y="89.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="sYvRmeqlsZWl2c47sikl-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="sYvRmeqlsZWl2c47sikl-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="330" as="sourcePoint" />
-            <mxPoint x="300" y="360" as="targetPoint" />
+            <mxPoint x="40" y="50" as="sourcePoint" />
+            <mxPoint x="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYvRmeqlsZWl2c47sikl-17" value="Mutual Funds bought by both User A will be recommended to User B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="229" y="410" width="220" height="40" as="geometry" />
+        <mxCell id="sYvRmeqlsZWl2c47sikl-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="sYvRmeqlsZWl2c47sikl-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="50" as="sourcePoint" />
+            <mxPoint x="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-11" value="User A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sYvRmeqlsZWl2c47sikl-20">
+          <mxGeometry y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-12" value="User B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sYvRmeqlsZWl2c47sikl-20">
+          <mxGeometry x="210" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="sYvRmeqlsZWl2c47sikl-20" target="sYvRmeqlsZWl2c47sikl-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="200" as="sourcePoint" />
+            <mxPoint x="230" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="sYvRmeqlsZWl2c47sikl-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="170" as="sourcePoint" />
+            <mxPoint x="100" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-17" value="Mutual Funds bought by both User A will be recommended to User B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sYvRmeqlsZWl2c47sikl-20">
+          <mxGeometry x="29" y="250" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-21" value="Mutual Fund 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sYvRmeqlsZWl2c47sikl-22" value="Mutual Fund 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="150" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
