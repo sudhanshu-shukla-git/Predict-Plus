@@ -1,5 +1,4 @@
 # Predict-Plus
-# Predict Plus : Team Upsilon
 
 Description : Predict Plus is an application in the Space of Fintech in B2C (Business to Customer) segment. 
 As specifically in India during Sept 2021, eight banks joined Account Aggregation Network. 
